@@ -1,0 +1,10 @@
+﻿  Bilet.cpp
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\Bilet.cpp(149,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BiletVIP.cpp
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\BiletVIP.cpp(129,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\BiletVIP.cpp(150,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\BiletVIP.cpp(152,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\BiletVIP.cpp(138): warning C4715: 'BiletVIP::operator[]': not all control paths return a value
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\Bilet.cpp(158): warning C4715: 'Bilet::operator[]': not all control paths return a value
+  ProiectPOToma_Sabin.vcxproj -> D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\Debug\ProiectPOToma_Sabin.exe
